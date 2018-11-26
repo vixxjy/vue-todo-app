@@ -18,4 +18,4 @@ Then navigate to http://localhost:8080 to view the demo.
 
 ## Demo :sparkling_heart: :sparkling_heart: :sparkling_heart:
 
-![Screenshot](img2.png)
+![Screenshot](img.png)
