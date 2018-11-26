@@ -1,27 +1,21 @@
-# todo-app
 
-> A Vue.js project
 
-## Build Setup
+This project was bootstrapped with Vue CLI 3.
 
-``` bash
-# install dependencies
-npm install
+## Vue-todo-App
 
-# serve with hot reload at localhost:8080
-npm run dev
+This app was built with Vue, sass, and animate css kindly drop suggestions and tips:
 
-# build for production with minification
-npm run build
+### `Installation`
 
-# build for production and view the bundle analyzer report
-npm run build --report
+- $ git clone the repo
+- $ cd into repo
+- $ npm install
+- $ npm run dev
 
-# run e2e tests
-npm run e2e
+Then navigate to http://localhost:8080 to view the demo.
 
-# run all tests
-npm test
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Demo :sparkling_heart: :sparkling_heart: :sparkling_heart:
+
+![Screenshot](img2.png)
